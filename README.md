@@ -1,5 +1,5 @@
 # Communicating Research Beyond Academia
-Materials for the Relevant Research workshop: **Communicating Research Beyond Academia **  
+Materials for the Relevant Research workshop: **Communicating Research Beyond Academia**  
 
 This repository contains workshop files, as well as files used to create the [workshop webpage](https://scds.githib.io/research-beyond-academia/) with GitHub Pages   
 
