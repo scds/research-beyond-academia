@@ -24,7 +24,7 @@ By the end of this workshop series, participants will be able to:
 
 4. Develop a personalized communications plan
 
-Proceed to the first [part](session-1) to get started.
+Proceed to the first [session](session-1) to get started.
 
 ***About the presenter***
 
