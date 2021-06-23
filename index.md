@@ -26,6 +26,4 @@ By the end of this workshop series, participants will be able to:
 
 Proceed to the first [session](session-1) to get started.
 
-***About the presenter***
-
-Mihaela Gruia is the Founder and Director of Research Retold, a consulting firm that works with ten universities in the UK and many outside organizations to develop and implement research communications. She received a Master's degree in Data Science from University of Sheffield in 2017 and went on to establish Research Retold, which has been operating for three years and received significant recognition from University partners in the UK. 
+***Mihaela Gruia is the Founder and Director of Research Retold, a consulting firm that works with ten universities in the UK and many outside organizations to develop and implement research communications. She received a Master's degree in Data Science from University of Sheffield in 2017 and went on to establish Research Retold, which has been operating for three years and received significant recognition from University partners in the UK.***
