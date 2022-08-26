@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Part 2 - 5 Building Blocks
+title: Part 2 - 5 Building Blocks of a Communications Plan
 nav_order: 3
 ---
 
